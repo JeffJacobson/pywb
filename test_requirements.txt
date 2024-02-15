@@ -4,6 +4,6 @@ pytest-cov
 mock
 urllib3
 httpbin==0.5.0
-flask<2.0
+flask<4.0
 ujson
 lxml
